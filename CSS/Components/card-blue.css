@@ -1,0 +1,9 @@
+.card-blue {
+	background: rgba(5,41,98,1);
+	padding: 60px;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0.1);
+	border-radius: 10px;
+	text-align: center;
+	font-family: sylfaen;
+}

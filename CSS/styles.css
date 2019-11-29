@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Fascinate+Inline&display=swap");
+
+@import url("Components/avatar.css");
+@import url("Components/btn-blue.css");
+@import url("Components/card.css");
+@import url("Components/container.css");
+@import url("Components/card-white.css");
+@import url("Components/card-blue.css");
+@import url("Components/banner.css");
+@import url("Components/flexcards.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: Sylfaen;
+	font-weight: bolder;
+	text-align: center;
+}
+h1 {
+	font-size: 60px;
+	color: black;
+}
+
+#title { padding: 10px;
+	margin: 10px auto;
+	background-color: rgba(250,250,250,0.75);
+	box-shadow: 10px 10px 10px rgba(0,0,0,0.3); 
+width: 750px ;
+border-radius: 20px}
+
+p {
+	font-family: Sylfaen;
+	font-size: 25px;
+}
+
+a {
+	text-decoration: none;
+}

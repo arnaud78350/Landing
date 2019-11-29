@@ -1,0 +1,7 @@
+.banner {
+background-image: url(../../images/banner.jpg);
+color: rgba(230,45,35,0.5);
+padding: 150px 0px;
+background-size: cover;
+background-position: center;
+}
